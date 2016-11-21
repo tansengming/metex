@@ -43,6 +43,6 @@ defmodule Metex.Worker do
   end
 
   defp apikey do
-    "95549b465e440bfc57fa9b50c6815e3a"
+    "not-api-key"
   end
 end
